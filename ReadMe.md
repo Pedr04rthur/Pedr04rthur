@@ -1,5 +1,5 @@
 # 🧑‍💼 About Me:
-### Estudante de Sistemas para Internet 🎓 | IFPB João Pessoa 🌐 🇧🇷<br><br>👋 Olá, me chamo Pedro Arthur, estudante apaixonado por tecnologia e atualmente cursando Sistemas para Internet no IFPB, campus João Pessoa.<br><br>🔭 **Explorando:**<br>- Buscando ser um bom desenvolvedor<br>- Explorando a tecnologia<br><br>📚 **Atualmente Aprendendo:**<br>- Estruturas de Dados, Banco de Dados, Programação Orientada à Objetos, Desenvolvimento Web...<br><br>📫 **Contato:**<br>- 📧 Email: pedro.arthurnery11@gmail.com /<br>><br>Contribuindo para o futuro da tecnologia! 🌟<br>
+### Estudante de Sistemas para Internet 🎓 | IFPB João Pessoa 🌐 🇧🇷<br><br>👋 Olá, me chamo Pedro Arthur, estudante apaixonado por tecnologia e atualmente cursando Sistemas para Internet no IFPB, campus João Pessoa.<br><br>🔭 **Explorando:**<br>- Buscando ser um bom desenvolvedor<br>- Explorando a tecnologia<br><br>📚 **Atualmente Aprendendo:**<br>- Estruturas de Dados, Banco de Dados, Programação Orientada à Objetos, Desenvolvimento Web...<br><br>📫 **Contato:**<br>- 📧 Email: pedro.arthurnery11@gmail.com <br>-<br>Contribuindo para o futuro da tecnologia! 🌟<br>
 
 
 ## 🌐 Socials:
